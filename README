@@ -28,6 +28,7 @@ Our idea with the Aquafur was to create a product that would automatically refil
 4. Place the reservoir with the attached (and sealed) valve on a stand that is tall enough to fit the bowl under the spout. 
 5. Place the bowl under the spout and fill your reservoir.
 6. Connect the valve to the circuit via the white and red jumper cables. 
+
 ![](https://user-images.githubusercontent.com/83724898/117204999-06d65280-adbf-11eb-8bee-f6652c4eee71.png)
 
 > Circuitry 
@@ -53,4 +54,3 @@ get connection to the BlueSmirf. Make sure you use a Samsung device, as the Blue
 
 ### Discussion
 The system has many restrictions. It must be connected to a 24V power source to supply enough power to the irrigation valve. The bluetooth connection was very spotty. If this project is recreated we recommend that a better bluetooth device is used. Another limitation is that with the valve that was used the water comes out very slowly. This would not be good practice in a household with a large dog that drink water quickly. This design would be more suited for a cat.
-
